@@ -1,0 +1,6 @@
+framework module Pods_TNSQLDB_Tests {
+  umbrella header "Pods-TNSQLDB_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_TNSQLDB_Example {
+  umbrella header "Pods-TNSQLDB_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

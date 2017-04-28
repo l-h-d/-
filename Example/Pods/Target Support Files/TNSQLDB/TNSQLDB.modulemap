@@ -1,0 +1,6 @@
+framework module TNSQLDB {
+  umbrella header "TNSQLDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
